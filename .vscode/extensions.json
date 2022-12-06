@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "mrmlnc.vscode-csscomb",
+    "dbaeumer.vscode-eslint",
+    "syler.sass-indented",
+    "wayou.vscode-todo-highlight",
+    "christian-kohler.path-intellisense",
+    "zhuangtongfa.material-theme",
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens",
+    "pkief.material-icon-theme",
+    "yoyo930021.vuter",
+    "octref.vetur"
+  ]
+}
